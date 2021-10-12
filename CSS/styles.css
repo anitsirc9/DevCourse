@@ -1,0 +1,51 @@
+body {
+  display: block;
+  margin: 0px;
+}
+
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+img{
+  height: 50px;
+  width: 50px
+  padding: 50px;
+}
+p{
+  margin: 0.1px 0.1px 0.1px 0.1px;
+  display: inline;
+}
+.top-container {
+  background-color: #986D8E;
+  width: 200px;
+  height: 200px;
+}
+.middle-container {
+  background-color: #F6AE99;
+  width: 200px;
+  height: 200px;
+}
+.bottom-container {
+  background-color: #716F81;
+  width: 200px;
+  height: 200px;
+}
+.blue {
+  background-color: #blue;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 100px;
+}
+.yellow {
+  background-color: #yellow;
+  width: 200px;
+  height: 200px;
+}
+.red {
+  background-color: #red;
+  width: 200px;
+  height: 200px;
+}
